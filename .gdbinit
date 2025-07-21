@@ -1,0 +1,11 @@
+tar rem:1234
+display/i $pc
+display/x $a0
+display/x $a1
+display/x $a2
+display/x $a3
+display/x $a4
+display/x $a5
+display/x $ra
+display/x $sp
+b main
